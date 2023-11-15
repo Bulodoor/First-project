@@ -1,3 +1,6 @@
 # First-project
 
 Bu benim ilk projem tabi ki proje demek ne kadar doğruysa. Ama önemli olan gelişimini kaydedip ileride geriye dönüp nereden geldiğine ve nasıl başladığına bakmak hem seni kibir ve kötü huylardan korur ve gelişimini takip edip kendini bu güne kadar ne kadar geliştirdiğini görüp motive olabilirsin. Hata yapabilir insan ama alışkanlık yapmadan. Önemli olan hatanı yapıp özür dilemen değil en önemlisi o hatayı yaptıktan sonra ondan ders çıkarmandır. Herkes der ki hata yapmaktan korkmayın bana göre bu görüş eksik ve biraz yanlış hata yapın ama alışkanlık yapmayın. Hatanı kimseye zarar vermeyecek şekilde yapıp onun sonuçlarına katlanıp ders çıkarman kaidesi ile yapmalısın ancak o zaman tecrübe edinirsin. Benim görüşüm hatanın sonucunda çıkabilecek sorumlulukları üstlenip ondan ders çıkarmalısın önemli olan hata yapmamak değil hata yapmak da değil "tecrübe kazandığın hatalar, yaptığın doğrulardır" sözünü destekliyorum benim gibi başlayıp nerede kendimizi bulacağımızı bilmiyorum bilseydikde heralde uğraşmazdık belirsizliğin güzel yanı da bu.
+![First-1](https://github.com/Bulodoor/First-project/assets/148656164/5d441f86-cda0-409a-825e-dc6a97982423)
+
+![First-2](https://github.com/Bulodoor/First-project/assets/148656164/51430a3c-61bd-4987-b1af-ad0a4be11f84)
