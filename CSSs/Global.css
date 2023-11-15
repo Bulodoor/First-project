@@ -1,0 +1,59 @@
+/* Text */
+.text-center {
+  text-align: center;
+}
+
+.text-small {
+  font-size: 1.25rem;
+}
+
+.text-medium {
+  font-size: 1.5rem;
+}
+
+.text-high {
+  font-size: 1.75rem;
+}
+
+.a-dec {
+  text-decoration: none;
+}
+
+/* Colors */
+.bg-dark-blue {
+  background-color: #062e51;
+}
+
+.bg-light-blue {
+  background-color: #336ea2;
+}
+
+/* Li */
+
+.li-b {
+  display: flex;
+  align-items: center;
+}
+
+.li-b span {
+  margin-left: 5px;
+}
+
+.lg-two {
+  width: 30px;
+}
+
+.li-bl {
+  margin-top: 5px;
+}
+
+.game-b1 {
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+/* Cont */
+
+.fa-brands:hover {
+  opacity: 0.7;
+}

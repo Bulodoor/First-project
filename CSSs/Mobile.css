@@ -1,0 +1,107 @@
+#navbar {
+  height: 80px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+#navbar h1 {
+  margin: 0.25rem;
+}
+
+/* #navbar ul {
+  flex-direction: column;
+  width: 100%;
+} */
+/* #container {
+  height: 700px;
+  
+} */
+/* #navbar ul li {
+  display: flex;
+  margin: 0.1rem auto;
+  justify-content: center;
+  font-weight: bold;
+  background-color: #336ea2;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 100%;
+} */
+
+/* #navbar ul li a {
+  padding: 0.2rem;
+} */
+
+
+/* Bulofoor */
+
+#home {
+  margin-top: 0.5rem;
+}
+
+.Bld {
+  width: 9.32rem;
+}
+
+/* Steam */
+
+#steam-b {
+  font-size: 9px;
+  margin-left: 3em;
+  margin-top: 3em;
+}
+
+.steam {
+  width: 6rem;
+}
+
+.lg-two,
+.csgo {
+  width: 1.5em;
+}
+
+
+/* Epic */
+
+.epic-b {
+  font-size: 9px;
+  margin-left: 3em;
+  margin-top: 3em;
+}
+
+.epic {
+  width: 6rem;
+}
+
+/* Form*/
+
+.form-group {
+  margin-left: 4em;
+}
+
+form input,
+textarea {
+  width: 80%;
+}
+
+footer .cont {
+  margin-left: 2em;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cont .fa-youtube,
+.cont .fa-discord {
+  padding: 1em 4.2em;
+  font-size: 16px;
+  border: 1px solid black;
+}
+
+.fa-instagram {
+  padding: 1em 3.65em;
+}

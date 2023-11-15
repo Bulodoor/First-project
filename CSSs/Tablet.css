@@ -1,0 +1,9 @@
+footer .cont {
+  margin-left: 2.2em;
+  display: flex;
+  flex-direction: row;
+}
+
+.fa-brands {
+  margin-right: 5px;
+}
